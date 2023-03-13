@@ -9,12 +9,15 @@ Using
 5. PUG & Handlebar 
 
 
-Homepage
+# Homepage
+
 ![image](https://user-images.githubusercontent.com/125430379/224316624-21b3edd0-31ad-4474-be26-17a92309ad79.png)
 
-Users Can Add Product
+#cUsers Can Add Product
+
 ![image](https://user-images.githubusercontent.com/125430379/224316742-5a5ac184-4bf6-4024-9a14-9d31d7d4a362.png)
 
 
-Admin Can Add, Edit and Delete Product 
+#cAdmin Can Add, Edit and Delete Product 
+
 ![image](https://user-images.githubusercontent.com/125430379/224317470-5f5b4849-87a8-4516-959f-2c9317fd3e4b.png)
