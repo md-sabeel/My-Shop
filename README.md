@@ -22,5 +22,3 @@ Using
 
 ![image](https://user-images.githubusercontent.com/125430379/224317470-5f5b4849-87a8-4516-959f-2c9317fd3e4b.png)
 
-
-![image](https://user-images.githubusercontent.com/125430379/225206880-96060825-e0ab-4e26-8e10-ed54761a499b.png)
