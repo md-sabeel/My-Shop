@@ -1,12 +1,20 @@
 # My-Shop
-From bestsellers to new &amp; future releases, the choices are exhaustive when you shop online at India's Largest Bookstore.
+#### From bestsellers to new &amp; future releases, the choices are exhaustive when you shop online at India's Largest Bookstore.
 
-Using 
-1. NodeJs 
-2. EJS (for Frontend)
-3. MongoDB (for Backend)
-4. CSS (for styling)
-5. PUG & Handlebar 
+## Using 
+#### 1. NodeJs 
+#### 2. EJS (for Frontend)
+#### 3. MongoDB (for Backend)
+#### 4. CSS (for styling)
+#### 5. PUG & Handlebar 
+
+## Installing Dependencies
+
+#### ``npm install`` or ``yarn install``
+
+## To Run this Porject
+
+#### ``npm start`` or ``npm run start`` 
 
 
 # Homepage
