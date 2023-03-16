@@ -1,6 +1,6 @@
 # My-Shop
 #### From bestsellers to new &amp; future releases, the choices are exhaustive when you shop online at India's Largest Bookstore.
-
+<a href="https://npmjs.org/package/bcryptjs"><img src="https://img.shields.io/npm/dm/bcryptjs.svg" alt=""></a> <a href="https://npmjs.org/package/bcryptjs"><img src="https://img.shields.io/npm/v/bcryptjs.svg" alt=""></a> <a href="/"><img alt="donate ❤" src="https://img.shields.io/badge/donate-❤-ff2244.svg"></a>
 ## Using 
 #### 1. NodeJs 
 #### 2. EJS (for Frontend)
